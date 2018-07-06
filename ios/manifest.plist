@@ -24,7 +24,7 @@
           </array>
           <!-- required. the URL of the file to download.-->
           <key>url</key>
-          <string>https://www.example.com/apps/foo.ipa</string>
+          <string>https://raw.githubusercontent.com/ibuybuy/app/master/ios/xcs_sign.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
@@ -34,7 +34,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>https://www.example.com/image.57x57.png</string>
+         <string>https://raw.githubusercontent.com/ibuybuy/app/master/ios/icon-57.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes.-->
         <dict>
@@ -45,7 +45,7 @@
          <string>61fa64bb7a7cae5a46bfb45821ac8bba</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>https://www.example.com/image.512x512.jpg</string>
+         <key>url</key><string>https://raw.githubusercontent.com/ibuybuy/app/master/ios/icon-72-2x.png</string>
         </dict>
       </array>
 <key>metadata</key>
